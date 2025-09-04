@@ -1,0 +1,10 @@
+Variable,Baseline,Significant_Months
+HUMI,Baseline,3
+HUMI,DeptClim,3
+HUMI,Persist,9
+RAIN,Baseline,0
+RAIN,DeptClim,0
+RAIN,Persist,0
+TEMP,Baseline,11
+TEMP,DeptClim,0
+TEMP,Persist,10
