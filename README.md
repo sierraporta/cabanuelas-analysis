@@ -18,3 +18,9 @@ This repo contains the data and code behind our paper testing the Cabañuelas hy
   - Rainfall: https://dev.socrata.com/foundry/www.datos.gov.co/s54a-sgyg
   - Humidity: https://dev.socrata.com/foundry/www.datos.gov.co/uext-mhny
   - Temperature: https://dev.socrata.com/foundry/www.datos.gov.co/sbwg-7ju4
+
+## Methodology:
+![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
+
+## Colomia´s Regions:
+![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
