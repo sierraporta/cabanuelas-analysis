@@ -7,6 +7,9 @@
 
 
 # Cabañuelas´s Analysis
+
+_The scientific assessment of traditional forecasting practices such as Las Cabañuelas lies at the crossroads of ethnometeorology, statistical evaluation, and contemporary climate science. Whereas modern meteorology is grounded in physically based numerical models supported by extensive observing and data-assimilation systems, Las Cabañuelas draws on generational observational experience transmitted through cultural tradition. These practices are often treated with skepticism in scientific settings because they are perceived to lack empirical support, yet comparatively few studies have subjected them to rigorous, out-of-sample statistical validation of predictive skill._
+
 ## Cabañuelas-Colombia: data, code, and hindcast evaluation. Early-January weather vs. same-year climate—myth or method? 
 
 This repo contains the data and code behind our paper testing the Cabañuelas hypothesis in Colombia (2000–2024), from exploratory correlations to a strict leave-one-year-out (LOY–O) hindcast with robust baselines and uncertainty.
