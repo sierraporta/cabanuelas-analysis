@@ -1,7 +1,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](CABAÑUELAS)
+[![License: MIT](https://img.shields.io/badge/Climatic_Analysis-CABAÑUELAS)](CABAÑUELAS)
+
 
 # Cabañuelas´s Analysis
 ## Cabañuelas-Colombia: data, code, and hindcast evaluation. Early-January weather vs. same-year climate—myth or method? 
