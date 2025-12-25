@@ -1,7 +1,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![License: MIT](https://img.shields.io/badge/Climatic_Analysis-CABAÑUELAS)](CABAÑUELAS)
+[![License: MIT](https://img.shields.io/badge/Climatic_Analysis-CABAÑUELAS-blue)](CABAÑUELAS)
 
 
 # Cabañuelas´s Analysis
