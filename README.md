@@ -30,7 +30,7 @@ This repo contains the data and code behind our paper testing the Cabañuelas hy
 
 ![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
 
-## Colomia´s Regions:
+## Colombia´s Regions:
 **Natural Regions of Colombia.** The map shows the five major geographical regions of Colombia—Caribbean, Andean, Pacific, Orinoquía, and Amazon—each with distinct climatic characteristics. These variations provide a framework for evaluating the regional applicability of traditional weather prediction methods such as Cabañuelas. _Source: Self-built using Python and GeoPandas._
 
 ![Colombias_Regions](https://github.com/sierraporta/cabanuelas-analysis/blob/main/figoneCaban.png)
