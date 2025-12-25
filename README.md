@@ -20,7 +20,11 @@ This repo contains the data and code behind our paper testing the Cabañuelas hy
   - Temperature: https://dev.socrata.com/foundry/www.datos.gov.co/sbwg-7ju4
 
 ## Methodology:
+**Data processing workflow for merging rainfall, temperature, and humidity datasets.** The process includes data cleaning, correction, feature computation, and final dataset structuring with daily and monthly aggregations.
+
 ![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
 
 ## Colomia´s Regions:
+**Natural Regions of Colombia.** The map shows the five major geographical regions of Colombia—Caribbean, Andean, Pacific, Orinoquía, and Amazon—each with distinct climatic characteristics. These variations provide a framework for evaluating the regional applicability of traditional weather prediction methods such as Cabañuelas. _Source: Self-built using Python and GeoPandas._
+
 ![Colombias_Regions](https://github.com/sierraporta/cabanuelas-analysis/blob/main/figoneCaban.png)
