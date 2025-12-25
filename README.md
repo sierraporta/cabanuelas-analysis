@@ -2,6 +2,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/Climatic_Analysis-CABAÑUELAS-blue)](CABAÑUELAS)
+[![License: MIT](https://img.shields.io/badge/Colombia_Climatic-CABAÑUELAS-blue)](Colombia)
+[![License: MIT](https://img.shields.io/badge/Climatic_culture-blue)](Culture)
 
 
 # Cabañuelas´s Analysis
