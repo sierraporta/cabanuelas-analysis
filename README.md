@@ -23,4 +23,4 @@ This repo contains the data and code behind our paper testing the Cabañuelas hy
 ![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
 
 ## Colomia´s Regions:
-![Methodology_graph](https://github.com/sierraporta/cabanuelas-analysis/blob/main/Methodology_graph.png)
+![Colombias_Regions](https://github.com/sierraporta/cabanuelas-analysis/blob/main/figoneCaban.pdf)
